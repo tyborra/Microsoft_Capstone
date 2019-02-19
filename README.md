@@ -1,1 +1,1 @@
-# Microsoft_Capstone
+# Microsoft Capstone
